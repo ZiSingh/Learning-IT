@@ -1,0 +1,8 @@
+It was a rough quarter for the cloud infrastructure market as companies looked for ways to cut back on spending in an uncertain economy. When you combine that with the strong dollar and a weak Chinese market, the market slowed to 21% growth, a precipitous drop from the 36% growth we had seen the year prior.
+
+While we aren’t seeing the gaudy growth of years past, Synergy Research still found the market exceeded $61 billion for the quarter with the 12 month trailing revenues of over $212 billion, a hefty sum by any measure, even with the slowdown.
+
+Also of note was that while each of The Big Three saw growth slow in Q4 2022 from the previous quarter, Microsoft still managed to gain market share ground on Amazon. Microsoft increased its share from 23%, up from 21% the prior quarter, while Amazon fell from 34% to 33% and Google remained steady at 11%. The Big Three cloud providers accounted for 66% of worldwide cloud revenue.
+
+
+That comes out to approximately $20 billion for Amazon, $14 billion for Microsoft and $7 billion for Google. Per usual, this is looking at IaaS, PaaS and hosted private cloud services. It doesn’t include SaaS, which is measured separate
